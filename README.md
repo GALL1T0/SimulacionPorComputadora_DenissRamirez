@@ -4,3 +4,5 @@ Practica 01 CUBO PIRÁMIDE
 ![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/113732b4-f1f0-46f4-a97a-675ec18535e4)
 
 Practica 02 LowPoly
+![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/fcdd9441-50f6-41c7-b5ef-c52349c8d128)
+![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/e2451bca-fb44-4ae4-bd6f-4645db5fad73)
