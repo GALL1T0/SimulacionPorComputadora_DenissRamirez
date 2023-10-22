@@ -15,4 +15,5 @@ Practica 03 Personaje:
 Practica 04 Colision:
 ![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/cf435e11-379b-4da6-bfa6-19afda857619)
 ![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/e0cae811-620c-4e32-949e-38911ecf30de)
+![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/626c876f-fc0a-4a36-8e66-636458517aa0)
 
