@@ -21,3 +21,8 @@ Practica 05 Liquido
 ![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/a43e1389-4e6e-4891-8e70-a5a169fe90e5)
 ![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/d7195711-6a54-4856-80e7-df898114081a)
 ![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/769672e2-58af-4f0d-bcf7-875ba5837781)
+
+Practica 06 Humo y fuego
+![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/6a813d1d-10d8-4fc8-9838-66983d11bf0d)
+![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/e6ade65a-856b-4efb-93b6-9ac0ffe95e46)
+![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/916d5298-b95b-4553-8d28-b37b598b3eae)
