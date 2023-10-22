@@ -9,4 +9,10 @@ Practica 02 LowPoly
 
 Practica 03 Personaje:
 ![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/5d6dd251-a541-4bc7-9a62-a23d005f80bf)
+![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/6d816fa7-09a8-4194-8377-6ec1b713c6c3)
+
+
+Practica 04 Colision:
+![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/cf435e11-379b-4da6-bfa6-19afda857619)
+![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/e0cae811-620c-4e32-949e-38911ecf30de)
 
