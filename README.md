@@ -17,3 +17,7 @@ Practica 04 Colision:
 ![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/e0cae811-620c-4e32-949e-38911ecf30de)
 ![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/626c876f-fc0a-4a36-8e66-636458517aa0)
 
+Practica 05 Liquido
+![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/a43e1389-4e6e-4891-8e70-a5a169fe90e5)
+![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/d7195711-6a54-4856-80e7-df898114081a)
+![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/769672e2-58af-4f0d-bcf7-875ba5837781)
