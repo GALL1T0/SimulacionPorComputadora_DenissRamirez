@@ -12,3 +12,6 @@
 
 
 ![image](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/52fe9cdf-dbd3-497a-a897-3fd6189902e8)
+
+
+![2023-11-12 18-06-31](https://github.com/GALL1T0/SimulacionPorComputadora_DenissRamirez/assets/102568975/e6cfab9c-464c-4605-a1ed-5138727d086a)
